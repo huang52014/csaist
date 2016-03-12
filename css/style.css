@@ -1,4 +1,4 @@
 body{}
 
 h1{}
-.face{border-radius: 50%;box-shadow:0 0 3px red;display: block;width: 50%;height:50%;background: url(../img/1.jpg) no-repeat center;background-size: 100%;}
+.face{border-radius: 50%;box-shadow:0 0 3px red;display: block;width: 200px;height:200px;background: url(../img/1.jpg) no-repeat center;background-size: 100%;margin:0 auto;}
